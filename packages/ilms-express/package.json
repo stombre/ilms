@@ -1,6 +1,6 @@
 {
   "name": "ilms-express",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create middleware to bind an ilms service to express",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,7 @@
     "express",
     "middleware"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "author": "guillaume DAIX",
   "license": "ISC"
 }
